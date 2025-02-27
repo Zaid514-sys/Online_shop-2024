@@ -1,4 +1,4 @@
-                                             **project_Name - Online Shop 2024**
+  **project_Name - Online Shop 2024**                                           
 
 
 -- creating customers table --
